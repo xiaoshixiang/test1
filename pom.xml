@@ -48,7 +48,7 @@
 		<remote-addr>192.168.1.10:22</remote-addr>
 		<remote-username>root</remote-username>
 		<remote-passwd>123456</remote-passwd>
-		<hdfs.version>3.1.1</hdfs.version>
+		<hdfs.version>3.1.4</hdfs.version>
 		<shareschain.version>2.0.3-SNAPSHOT</shareschain.version>
 	</properties>
 
